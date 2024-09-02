@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" type="text/css" href="style.css">
-	<link href="fonts/Roboto" rel="stylesheet">
+	<link href="fonts/Poppins" rel="stylesheet">
 	<script src="https://kit.fontawesome.com/0ac4ca22f0.js" crossorigin="anonymous"></script>
 
 	<title>Leonam - tema</title>
@@ -19,16 +19,20 @@
 			</header>
 
 			<ul class="menu-desktop">
+				<!--<li><a href="" style="padding-right: 230px;">English version</a></li>-->
+
 				<li><a href="">Home</a></li>
-				<li><a href="">English version</a></li>
+				<li><a href="">Sobre</a></li>
 				<li><a href="">Contato</a></li>
 			</ul>
 
 			<div class="menu-mobile">
 				<i class="fa-solid fa-bars"></i>
 				<ul>
+					<!--<li><a href="" style="padding-right: 230px;">English version</a></li>-->
+
 					<li><a href="">Home</a></li>
-					<li><a href="">English version</a></li>
+					<li><a href="">Sobre</a></li>
 					<li><a href="">Contato</a></li>
 				</ul>
 			</div><!--menu-mobile-->
@@ -37,8 +41,9 @@
 			<br />
 			<br />
 			<div class="w50 time-descricao">
-				<h2>Olá, meu nome é Leonam Alexandria</h2>
-				<p>Desenvolvedor Junior</p>
+				<h2>Olá, eu sou <br /> Leonam Alexandria</h2>
+				<h3>Junior Developer</h3>
+				<p>Profissional relacionado ao desenvolvimento web e programador back-end. <br /> Confira meu curriculo para informações de recrutamento!</p>
 				<a target="_blank" href="...">Download CV</a>
 			</div><!--w50 time-descricao-->
 			<div class="w50 time-imagem">
@@ -69,8 +74,9 @@
 	<section class="sobre">
 		<div class="center">
 			<div class="w50 sobre-descricao">
-				<h2>Eu sou um desenvolvedor Website</h2>
+				<h2>Conheça um pouco das tecnologias que desenvolvo!</h2>
 				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+				<a target="_blank" href="...">Saiba mais</a>
 			</div><!--sobre-descricao-->
 
 			<div class="w50 sobre-imagem">
@@ -87,21 +93,33 @@
 
 			<div class="sites">
 				<div class="box-single-sites">
-					<img src="images/php-elephant.jpg" />
-					<h3>Site sobre tal projeto1</h3>
+					<img src="images/projeto1.png" />
+					<div class="borda">
+						<h3>Fast Forward Idiomas</h3>
+						<p>Escola de Inglês com objetivo de integração as empresas.</p>
+						<a target="_blank" href="...">Saiba mais</a>
+					</div><!--borda-->
 				</div><!--box-single-sites-->
 
 				<div class="box-single-sites">
-					<img src="images/php-elephant.jpg" />
-					<h3>Site sobre tal projeto2</h3>
+					<img src="images/projeto2.png" />
+					<div class="borda">
+						<h3>Alta fusão Telecom</h3>
+						<p>Empresa Telecom com o objetivo de atuar no mercado dando suporte para outras empresas atraves da estrutudara de fiba óptica pela cidade.</p>
+						<a target="_blank" href="...">Saiba mais</a>
+					</div><!--borda-->
 				</div><!--box-single-sites-->
 
 				<div class="box-single-sites">
-					<img src="images/php-elephant.jpg" />
-					<h3>Site sobre tal projeto3</h3>
+					<img src="images/projeto3.png" />
+					<div class="borda">
+						<h3>Surf-Solo</h3>
+						<p>programa agrega em você aprender os fundamentos básicos para sua evolução do surf</p>
+						<a target="_blank" href="...">Saiba mais</a>
+					</div><!--borda-->
 				</div><!--box-single-sites-->
 			</div><!--sites-->
-		<div class="clear"></div>
+		    <div class="clear"></div>
 		</div><!--center-->
 	</section><!--projetos-->
 
