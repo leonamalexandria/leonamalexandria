@@ -20,7 +20,7 @@
 
 			<ul class="menu-desktop">
 				<li><a href="">Home</a></li>
-				<li><a href="">English version</a></li>
+				<li><a href="">Sobre</a></li>
 				<li><a href="">Contato</a></li>
 			</ul>
 
@@ -28,7 +28,7 @@
 				<i class="fa-solid fa-bars"></i>
 				<ul>
 					<li><a href="">Home</a></li>
-					<li><a href="">English version</a></li>
+					<li><a href="">Sobre</a></li>
 					<li><a href="">Contato</a></li>
 				</ul>
 			</div><!--menu-mobile-->
@@ -39,7 +39,7 @@
 	<section class="sobre-mim">
 		<div class="center">
 			<div class="w50 sobre-mim-texto">
-				<h2>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h2>
+				<h2>Veja as tecnologias que eu aprendi na minha jornada.</h2>
 				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
 			</div><!--w50-->
 			<div class="w50 sobre-mim-imagem">

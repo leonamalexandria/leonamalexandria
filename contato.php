@@ -46,9 +46,9 @@
 			<p><b>Whatsapp:</b> (00) 123456789</p>
 
 		    <div class="icon-contato">
-				<i class="fa-brands fa-linkedin"></i>
-				<i class="fa-brands fa-square-whatsapp"></i>
-				<i class="fa-brands fa-square-instagram"></i>
+		    	<a target="_blank" href="..."><i class="fa-brands fa-linkedin"></i></a>
+		    	<a target="_blank" href="..."><i class="fa-brands fa-square-whatsapp"></i></a>
+		    	<a target="_blank" href="..."><i class="fa-brands fa-square-github"></i></a>				
 		    </div><!--icon-contato-->
 
 
